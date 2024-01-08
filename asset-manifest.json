@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mhm_beta/static/css/main.88247c74.css",
+    "main.js": "/mhm_beta/static/js/main.e7eb919e.js",
+    "static/media/Pretendard-Medium.ttf": "/mhm_beta/static/media/Pretendard-Medium.7f0e62f904e2bce0dbfb.ttf",
+    "static/media/icn_request_small.svg": "/mhm_beta/static/media/icn_request_small.50c3413f4f5effb176c2601d66d033a5.svg",
+    "static/media/icn_summary_small.svg": "/mhm_beta/static/media/icn_summary_small.f7ce3d7e3c65c083534188fa653e2add.svg",
+    "static/media/send-paper-plane-angle-square.svg": "/mhm_beta/static/media/send-paper-plane-angle-square.1812aa4d99d07583ad11ce44770dcb96.svg",
+    "static/media/document-file-chart-analytics-bottom.svg": "/mhm_beta/static/media/document-file-chart-analytics-bottom.d329056c575496eef063461f4a7480f6.svg",
+    "static/media/Folder, Search.svg": "/mhm_beta/static/media/Folder, Search.367dd18aeac841e39c9d0d8c420ab108.svg",
+    "index.html": "/mhm_beta/index.html",
+    "static/media/Code, Search.svg": "/mhm_beta/static/media/Code, Search.2d4634a98104c9e87993421b229efdab.svg",
+    "main.88247c74.css.map": "/mhm_beta/static/css/main.88247c74.css.map",
+    "main.e7eb919e.js.map": "/mhm_beta/static/js/main.e7eb919e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88247c74.css",
+    "static/js/main.e7eb919e.js"
+  ]
+}
